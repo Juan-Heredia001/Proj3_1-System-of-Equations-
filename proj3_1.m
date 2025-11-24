@@ -1,2 +1,4 @@
 
 % SYSTEM OF LINEAR EQUATION
+a = 4;
+b =5;
